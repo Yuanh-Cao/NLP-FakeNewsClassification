@@ -2,9 +2,9 @@
 ## Natural Language Processing
 ### from Cornell University CS4740/5740 2020Fall
 
-word by Yuanhong Cao (yc2668@cornell.edu), Zeyu Chen (zc436@cornell.edu)
+Work by Yuanhong Cao (yc2668@cornell.edu), Zeyu Chen (zc436@cornell.edu)
 
-link to raw data: https://drive.google.com/drive/folders/1Gm6Ky7IHB8YEo9UShq_vtU-8SJeBjPAa?usp=sharing 
+Link to raw data: https://drive.google.com/drive/folders/1Gm6Ky7IHB8YEo9UShq_vtU-8SJeBjPAa?usp=sharing 
 
 In this project we will build an n-gram-based language model for fake news classification. We will also investigate a feature-based Naive Bayes model. The task we are faced with is to decide whether a news article is fake or real. While some fake articles are so absurd and nonsensical that one can clearly guess they are fake, most fake news is actually quite hard to detect. Various studies have shown that most people can have an error rate up to 50% depending on the theme of the article.
 
