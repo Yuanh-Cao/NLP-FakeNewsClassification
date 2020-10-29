@@ -4,6 +4,8 @@
 
 word by Yuanhong Cao (yc2668@cornell.edu), Zeyu Chen (zc436@cornell.edu)
 
+link to raw data: https://drive.google.com/drive/folders/1Gm6Ky7IHB8YEo9UShq_vtU-8SJeBjPAa?usp=sharing 
+
 In this project we will build an n-gram-based language model for fake news classification. We will also investigate a feature-based Naive Bayes model. The task we are faced with is to decide whether a news article is fake or real. While some fake articles are so absurd and nonsensical that one can clearly guess they are fake, most fake news is actually quite hard to detect. Various studies have shown that most people can have an error rate up to 50% depending on the theme of the article.
 
 To help us approach this problem, we will use NLP techniques covered thus far to frame this as a (supervised) binary classification task, where each article will have a label  𝑦∈{0,1} , where 0 indicates a fake article and 1 indicates a real one. You will train and validate your two different models and then run them on a test data set with hidden  𝑦  labels. You will then submit the results on the test data set to Kaggle to participate in our class-wide competition!
